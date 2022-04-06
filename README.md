@@ -13,7 +13,7 @@
 
 ---
 
-## [프로모션 성과 지표 설계]
+## 프로모션 성과 지표 설계
 
 21.06 - 21.07
 기존 프로모션 성과 지표보다 더 나은 지표는 없을까?
@@ -41,7 +41,7 @@
 
 ---
 
-## [렌터카 보험사기 판별](https://github.com/whistle-boy/fraud_detection)
+## [렌터카 보험사기 판별](https://github.com/whistle-boy/fraud_detection, 'fraud_detection')
 
 20.12 - 21.01
 머신러닝으로 자동차 보험사기를 잡을 수 없을까?
