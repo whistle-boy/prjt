@@ -41,7 +41,7 @@
 
 ---
 
-## [렌터카 보험사기 판별](https://github.com/whistle-boy/fraud_detection, 'fraud_detection')
+## [렌터카 보험사기 판별](https://github.com/whistle-boy/fraud_detection)
 
 20.12 - 21.01
 머신러닝으로 자동차 보험사기를 잡을 수 없을까?
